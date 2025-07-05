@@ -1,3 +1,9 @@
+[**点此下载Mac版Claudia**](https://github.com/GoJam11/claudia-macos/releases) 
+
+🚀 编译版即开即用 - 无需额外配置，直接运行签名版本
+
+❤️ 如果这个项目对您有帮助，请给我一个Star！ ⭐
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/92fd93ed-e71b-4b94-b270-50684323dd00" alt="Claudia Logo" width="120" height="120">
 
