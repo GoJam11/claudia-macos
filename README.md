@@ -1,5 +1,11 @@
 [**点此下载Mac版Claudia**](https://github.com/GoJam11/claudia-macos/releases) 
 
+[**Click to Download Mac Claudia**](https://github.com/GoJam11/claudia-macos/releases) 
+
+🚀 Compiled Version - Ready to Use Out of the Box - No additional configuration required, run the signed version directly
+
+❤️ If this project helps you, please give me a Star! ⭐
+
 🚀 编译版即开即用 - 无需额外配置，直接运行签名版本
 
 ❤️ 如果这个项目对您有帮助，请给我一个Star！ ⭐
